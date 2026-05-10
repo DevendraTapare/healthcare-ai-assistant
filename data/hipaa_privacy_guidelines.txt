@@ -1,0 +1,115 @@
+HIPAA PRIVACY GUIDELINES AND PATIENT RIGHTS
+Mindbowser Health Clinic — Privacy and Compliance Office
+Document Version: 4.0 | Effective Date: January 2024
+Applicable Standard: Health Insurance Portability and Accountability Act (HIPAA)
+45 CFR Parts 160 and 164 (Privacy Rule and Security Rule)
+
+──────────────────────────────────────────────────────
+WHAT IS HIPAA AND WHY IT MATTERS
+──────────────────────────────────────────────────────
+
+The Health Insurance Portability and Accountability Act (HIPAA) is a United
+States federal law that establishes national standards for the protection of
+sensitive patient health information. Although Mindbowser Health Clinic
+operates primarily in India, we voluntarily adopt HIPAA standards as part of
+our commitment to international best practices in patient data privacy and
+security, and to support patients whose care involves US-based insurers,
+employers, or healthcare networks.
+
+Protected Health Information (PHI) refers to any individually identifiable
+health information — including name, date of birth, address, diagnosis, test
+results, treatment history, and insurance details — that is created, received,
+stored, or transmitted by the clinic in any form (paper, electronic, or oral).
+
+──────────────────────────────────────────────────────
+THE MINIMUM NECESSARY STANDARD
+──────────────────────────────────────────────────────
+
+Under the HIPAA Minimum Necessary Standard, Mindbowser Health Clinic limits
+access to PHI to the minimum information needed to accomplish the intended
+purpose. Staff may only access PHI that is directly relevant to their job
+function. For example, a billing specialist may access diagnosis codes for
+claims processing but does not have access to detailed clinical notes.
+
+This standard applies to all disclosures of PHI except those made directly
+to the patient themselves, those required for treatment by a treating provider,
+or those mandated by law or court order.
+
+──────────────────────────────────────────────────────
+PERMITTED USES AND DISCLOSURES OF PHI
+──────────────────────────────────────────────────────
+
+The clinic may use and disclose PHI without patient authorisation for the
+following purposes (the "TPO" exceptions):
+
+1. Treatment: Sharing information among treating physicians, nurses, specialists,
+   laboratories, and other care providers involved in the patient's direct care.
+
+2. Payment: Disclosing information to insurance companies, government health
+   schemes (e.g., AB-PMJAY), and billing agencies to process claims and obtain
+   reimbursement.
+
+3. Healthcare Operations: Internal quality assurance, staff training, compliance
+   audits, accreditation reviews, and de-identified data analytics.
+
+For any use beyond TPO — such as marketing, research, or sharing with employers
+— the clinic must obtain explicit written authorisation from the patient.
+
+──────────────────────────────────────────────────────
+PATIENT RIGHTS UNDER HIPAA
+──────────────────────────────────────────────────────
+
+Patients at Mindbowser Health Clinic have the following rights regarding their PHI:
+
+Right of Access: Patients may request a copy of their medical records, including
+discharge summaries, lab results, imaging reports, and prescription history.
+Requests are fulfilled within 30 days. A nominal fee (not to exceed ₹250 per
+request) may apply for reproduction costs.
+
+Right to Amend: If a patient believes their health record contains an error or
+omission, they may request an amendment. The clinic will review and respond
+within 60 days. If the amendment is denied, the patient may submit a written
+statement of disagreement.
+
+Right to an Accounting of Disclosures: Patients may request a list of all
+non-routine disclosures of their PHI made in the past six years, excluding
+TPO disclosures and direct care communications.
+
+Right to Request Restrictions: Patients may request that the clinic limit how
+their PHI is used or disclosed. The clinic will honour requests to restrict
+disclosure to a health plan when the patient pays for the service in full
+out of pocket.
+
+Right to Confidential Communications: Patients may request that communications
+be sent via a specific method or to an alternate address (e.g., work email
+instead of home address) if disclosure could endanger them.
+
+──────────────────────────────────────────────────────
+ELECTRONIC PHI (ePHI) SAFEGUARDS
+──────────────────────────────────────────────────────
+
+All electronic PHI is protected by administrative, physical, and technical
+safeguards under the HIPAA Security Rule:
+
+- Access controls: Role-based access with unique user IDs and strong passwords.
+- Audit controls: All access to the Electronic Health Record (EHR) system is
+  logged with timestamp, user ID, and records accessed.
+- Encryption: All ePHI in transit uses TLS 1.2 or higher; stored data is
+  encrypted at rest using AES-256.
+- Automatic logoff: EHR workstations time out after 10 minutes of inactivity.
+- Breach notification: In the event of a PHI breach, affected patients are
+  notified within 60 days in accordance with the HIPAA Breach Notification Rule.
+
+──────────────────────────────────────────────────────
+HOW TO EXERCISE YOUR PRIVACY RIGHTS
+──────────────────────────────────────────────────────
+
+To submit a privacy request, access your records, or report a privacy concern:
+
+Privacy Officer: privacy@mbhealthclinic.com
+Phone: +91-20-6789-0300 | Mon–Fri, 9 AM – 5 PM
+In Person: Privacy Office, 1st Floor, Mindbowser Health Clinic, Baner, Pune
+
+Patients also have the right to file a complaint with the clinic's Privacy
+Officer without fear of retaliation. Complaints may also be filed with the
+relevant healthcare regulatory authority.

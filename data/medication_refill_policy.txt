@@ -1,0 +1,120 @@
+MEDICATION REFILL POLICY
+Mindbowser Health Clinic — Pharmacy and Outpatient Services
+Document Version: 2.5 | Effective Date: March 2024
+
+This policy outlines the procedures and requirements for requesting prescription
+medication refills at Mindbowser Health Clinic. All refill requests are subject
+to physician review and applicable legal regulations for drug dispensing.
+
+──────────────────────────────────────────────────────
+GENERAL REFILL GUIDELINES
+──────────────────────────────────────────────────────
+
+Prescription medication refills are not automatic. Each refill request must be
+reviewed and approved by the prescribing physician or their designated covering
+provider before the pharmacy can dispense the medication.
+
+Patients are strongly advised to submit refill requests at least 5 business
+days before their current medication supply runs out. Requests submitted with
+fewer than 5 days of medication remaining may experience delays, particularly
+for medications requiring prior authorisation from insurance providers.
+
+Controlled substances (Schedule H, H1, and X medications under the Drugs and
+Cosmetics Act, including opioids, benzodiazepines, and stimulants) require an
+in-person consultation before each refill and cannot be processed via phone,
+portal message, or email alone.
+
+──────────────────────────────────────────────────────
+HOW TO REQUEST A REFILL
+──────────────────────────────────────────────────────
+
+1. Patient Portal (Preferred): Log in at portal.mbhealthclinic.com, go to
+   "My Prescriptions," select the medication you need refilled, and click
+   "Request Refill." Include the name of the medication, dosage, and your
+   preferred pharmacy for pickup. You will receive a portal notification when
+   the request has been reviewed (typically within 2 business days).
+
+2. Phone: Call the Pharmacy Line at +91-20-6789-0400, Monday to Friday,
+   9 AM to 5 PM IST. Have your patient ID, current prescription number,
+   medication name, and dosage ready when you call.
+
+3. In-Person: Visit the Outpatient Pharmacy on the ground floor. Present
+   your current prescription label or pharmacy receipt.
+
+4. Authorised Representative: A family member or caregiver may request a
+   refill on your behalf, provided they present a signed written authorisation
+   from the patient and a copy of the patient's photo ID.
+
+──────────────────────────────────────────────────────
+MEDICATIONS NOT ELIGIBLE FOR REFILL WITHOUT CONSULTATION
+──────────────────────────────────────────────────────
+
+The following categories of medications require a new in-person or telehealth
+consultation before a refill can be authorised:
+
+- All Schedule H1 (controlled) medications
+- Antibiotics (refills indicate possible treatment failure — reassessment needed)
+- Immunosuppressants and biologics (require current lab monitoring values)
+- Anticoagulants such as warfarin (requires current INR result)
+- Insulin and other injectable diabetes medications (annual review required)
+- Medications that have not been refilled in more than 12 months
+
+──────────────────────────────────────────────────────
+MAXIMUM REFILL QUANTITIES
+──────────────────────────────────────────────────────
+
+For most chronic condition medications (hypertension, diabetes, thyroid),
+the clinic authorises up to a 90-day supply per refill, subject to insurance
+coverage limits. Acute condition medications (short-term antibiotics,
+post-surgical pain medications) are limited to a single fill with no refills
+unless re-evaluated. Emergency supply: A 3-day emergency supply may be
+dispensed by the pharmacist at their discretion for critical chronic medications
+(e.g., antihypertensives, anticoagulants) when a refill request is pending.
+
+──────────────────────────────────────────────────────
+INSURANCE AND REFILL TIMING
+──────────────────────────────────────────────────────
+
+Many insurance plans enforce a "too soon to fill" restriction, which prevents
+a refill from being dispensed before a minimum number of days have elapsed
+since the last fill (typically when 75% of the previous supply should have
+been consumed). If your refill is rejected by the pharmacy due to this
+restriction, contact our billing team at +91-20-6789-0200 to explore options
+including appeal, generic substitution, or a physician override request.
+
+──────────────────────────────────────────────────────
+MEDICATION CHANGES AND SUBSTITUTIONS
+──────────────────────────────────────────────────────
+
+If your prescribed medication is unavailable at our pharmacy or is out of
+stock, our pharmacist will contact your prescribing physician to discuss a
+therapeutically equivalent alternative. Substitutions are made only with
+physician approval. Patients will be notified of any substitution before
+dispensing and have the right to decline the substitution.
+
+Generic substitution is performed by default when a generic equivalent is
+available unless the physician has specified "brand medically necessary" on
+the prescription. Generic medications are bioequivalent to brand-name versions
+and meet the same quality standards.
+
+──────────────────────────────────────────────────────
+DISPOSAL OF UNUSED MEDICATIONS
+──────────────────────────────────────────────────────
+
+Do not flush unused medications down the drain or throw them in household
+waste. Mindbowser Health Clinic operates a medication disposal drop-box
+located near the outpatient pharmacy entrance. All disposed medications are
+collected by a licensed medical waste handler in accordance with the
+Biomedical Waste Management Rules, 2016.
+
+──────────────────────────────────────────────────────
+CONTACT — PHARMACY SERVICES
+──────────────────────────────────────────────────────
+
+Pharmacy Line: +91-20-6789-0400 | Mon–Fri, 9 AM – 5 PM
+Patient Portal: portal.mbhealthclinic.com
+Email: pharmacy@mbhealthclinic.com
+
+For medication-related clinical questions, please consult your physician.
+Pharmacy staff can advise on dispensing, storage, and refill logistics but
+cannot provide medical advice or alter your prescription.

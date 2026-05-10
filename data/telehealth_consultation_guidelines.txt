@@ -1,0 +1,140 @@
+TELEHEALTH CONSULTATION GUIDELINES
+Mindbowser Health Clinic — Digital Health Services
+Document Version: 1.6 | Effective Date: April 2024
+
+These guidelines cover the eligibility criteria, technical requirements,
+conduct, limitations, and privacy protections applicable to all telehealth
+(virtual) consultations offered by Mindbowser Health Clinic.
+
+──────────────────────────────────────────────────────
+WHAT IS A TELEHEALTH CONSULTATION?
+──────────────────────────────────────────────────────
+
+A telehealth consultation is a scheduled, live, two-way audio-video interaction
+between a patient and a licensed Mindbowser Health Clinic physician or specialist
+conducted via the clinic's secure telehealth platform. Telehealth is not a
+messaging service or chatbot — a qualified doctor participates in real time and
+clinical decisions are made during the session.
+
+Telehealth consultations are appropriate for:
+- Follow-up visits for stable, established conditions
+- Review of test results, imaging reports, or specialist findings
+- Management of chronic conditions (hypertension, diabetes, thyroid, asthma)
+- Mental health consultations (psychiatry, counselling)
+- Minor acute conditions (mild respiratory symptoms, rash review, UTI)
+- Prescription renewals that do not require physical examination
+- Second opinion consultations
+- Post-discharge check-ins within the first 30 days after hospitalisation
+
+──────────────────────────────────────────────────────
+CONDITIONS NOT SUITABLE FOR TELEHEALTH
+──────────────────────────────────────────────────────
+
+Telehealth is not appropriate for emergencies or conditions requiring physical
+examination or hands-on intervention. Patients should present in person or
+go to the Emergency Department for:
+
+- Chest pain, suspected heart attack, or stroke symptoms
+- Severe abdominal pain or suspected appendicitis
+- High fever with altered mental status
+- Fractures, deep lacerations, or serious injuries
+- First-time assessment of a new, undiagnosed complex symptom
+- Conditions requiring blood draws, imaging, or on-site diagnostic testing
+- Procedures such as injections, dressing changes, or minor surgery
+- Paediatric emergencies or infants under 3 months with any illness
+
+──────────────────────────────────────────────────────
+TECHNICAL REQUIREMENTS
+──────────────────────────────────────────────────────
+
+To participate in a telehealth session, patients require:
+
+- A smartphone, tablet, or computer with a working camera and microphone
+- A stable internet connection (minimum 5 Mbps recommended for HD video)
+- The Mindbowser Health Clinic Telehealth App (available on iOS App Store and
+  Google Play) or access via the web portal at telehealth.mbhealthclinic.com
+- A quiet, well-lit, private location to protect confidentiality
+- The ability to view the full body or affected area if relevant (e.g., for
+  dermatology consultations, position your camera to show the affected skin area)
+
+A technical support team is available at +91-20-6789-0500 to assist patients
+who encounter difficulties connecting to their telehealth appointment.
+
+──────────────────────────────────────────────────────
+HOW TO BOOK A TELEHEALTH CONSULTATION
+──────────────────────────────────────────────────────
+
+1. Log in to the Patient Portal at portal.mbhealthclinic.com.
+2. Select "Book Appointment" and choose "Telehealth / Virtual Visit."
+3. Select your preferred department and physician.
+4. Choose a date and time slot. Telehealth slots are marked with a video icon.
+5. Complete your reason-for-visit questionnaire (required for the doctor's
+   pre-session review).
+6. You will receive a confirmation with a secure session link 30 minutes before
+   your appointment. Do not share this link with anyone.
+
+Telehealth consultations may also be booked by calling the scheduling desk at
++91-20-6789-0000.
+
+──────────────────────────────────────────────────────
+DURING THE CONSULTATION
+──────────────────────────────────────────────────────
+
+Join the session 5 minutes before your scheduled time using the link in your
+confirmation message. Your physician will admit you from a virtual waiting room.
+Please have the following ready at the start of the call:
+
+- Your current list of medications and dosages
+- Any recent test results or reports relevant to the consultation
+- A list of your symptoms, including duration and severity
+- Any questions you wish to raise with the physician
+
+The consultation is conducted by a licensed physician and follows the same
+standard of care as an in-person visit. The physician may escalate you to
+an in-person appointment if clinical assessment requires physical examination.
+
+──────────────────────────────────────────────────────
+PRESCRIPTIONS AND REFERRALS AFTER TELEHEALTH
+──────────────────────────────────────────────────────
+
+Prescriptions issued during a telehealth consultation are digitally signed and
+transmitted directly to your registered pharmacy or made available for download
+via the Patient Portal within 30 minutes of the session ending. Controlled
+substances (Schedule H1 and X) cannot be prescribed via telehealth — an
+in-person consultation is required.
+
+Referral letters to specialists generated during a telehealth visit are
+uploaded to your Patient Portal within 24 hours and can be shared directly
+with the specialist's office through the portal.
+
+──────────────────────────────────────────────────────
+PRIVACY AND CONFIDENTIALITY
+──────────────────────────────────────────────────────
+
+All telehealth sessions are conducted over an end-to-end encrypted connection.
+Sessions are never recorded without explicit written consent from the patient.
+Video and audio data are not stored beyond the duration of the call. Session
+notes are recorded in the patient's EHR by the physician and are protected
+under the same PHI safeguards as in-person consultation records.
+
+Patients must ensure they are in a private location during the consultation.
+The clinic is not responsible for breaches of confidentiality caused by the
+patient conducting the session in a non-private environment.
+
+──────────────────────────────────────────────────────
+FEES AND INSURANCE
+──────────────────────────────────────────────────────
+
+Telehealth consultation fees are equivalent to the corresponding in-person
+consultation fee for the same department. Most major health insurance plans
+cover telehealth at the same co-pay rate as in-person visits. Patients should
+verify telehealth coverage with their insurer before booking. Uninsured patients
+may pay via the Patient Portal using UPI, debit/credit card, or net banking.
+
+──────────────────────────────────────────────────────
+CONTACT — TELEHEALTH SERVICES
+──────────────────────────────────────────────────────
+
+Telehealth Support: +91-20-6789-0500 | Daily, 7 AM – 10 PM
+Technical Issues: telehealth@mbhealthclinic.com
+Patient Portal: portal.mbhealthclinic.com/telehealth
