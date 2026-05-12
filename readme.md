@@ -22,12 +22,12 @@ This system enables healthcare staff to query internal healthcare policy documen
 
 ## Tech Stack
 
-- Python 3.11
+- Python
 - FastAPI
 - ChromaDB
 - LangChain
 - HuggingFace Embeddings
-- Ollama (Gemma 3 1B)
+- Ollama (Mistral)
 - Docker
 - uv
 
@@ -56,7 +56,7 @@ uv pip install -r requirements.txt
 
 ### Run Ollama
 ```bash
-ollama pull gemma3:1b
+ollama pull mistral
 ollama serve
 ```
 
