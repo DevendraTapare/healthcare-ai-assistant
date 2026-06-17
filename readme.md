@@ -35,7 +35,7 @@ This system enables healthcare staff to query internal healthcare policy documen
 
 ## Architecture Diagram
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](data/healthcare_rag_architecture_diagram.png)
 
 ---
 
@@ -137,5 +137,5 @@ Unsupported queries return:
 
 ## Author
 
-Developed for the Mindbowser Healthcare AI Assistant Assignment.
+Developed as the Practice Assignment.
 
