@@ -33,6 +33,12 @@ This system enables healthcare staff to query internal healthcare policy documen
 
 ---
 
+## Architecture Diagram
+
+![Architecture Diagram](assets/architecture.png)
+
+---
+
 ## Setup
 
 ### Create Environment
